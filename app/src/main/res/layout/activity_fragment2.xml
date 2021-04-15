@@ -12,7 +12,9 @@
         android:layout_marginTop="180dp"
         android:layout_marginLeft="80dp"
         android:hint="Enter Email Here"
-        android:id="@+id/etEmailF">
+        android:id="@+id/etEmailF"
+        android:padding="10dp"
+        android:background="@drawable/tv_border">
     </EditText>
     <EditText
         android:layout_width="250dp"
@@ -20,15 +22,19 @@
         android:layout_marginTop="50dp"
         android:layout_marginLeft="80dp"
         android:hint="Enter Name Here"
-        android:id="@+id/etNameF">
+        android:id="@+id/etNameF"
+        android:padding="10dp"
+        android:background="@drawable/tv_border">
     </EditText>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Send Data To Next Fragment"
-        android:layout_marginLeft="95dp"
+        android:layout_marginLeft="80dp"
         android:layout_marginTop="50dp"
-        android:id="@+id/btnSendFragment"></Button>
+        android:id="@+id/btnSendFragment"
+        android:padding="10dp"
+        android:background="@drawable/tv_border"></Button>
 
 
 </LinearLayout>

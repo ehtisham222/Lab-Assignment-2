@@ -13,8 +13,6 @@
         android:layout_marginLeft="100dp"
         android:layout_marginTop="200dp"
         android:textColor="@color/black"
-        android:padding="10dp"
-        android:background="@drawable/tv_border"
         android:id="@+id/tvemailF">
     </TextView>
     <TextView
@@ -23,8 +21,6 @@
         android:layout_marginLeft="100dp"
         android:layout_marginTop="100dp"
         android:textColor="@color/black"
-        android:padding="10dp"
-        android:background="@drawable/tv_border"
         android:id="@+id/tvnameF">
     </TextView>
 </LinearLayout>

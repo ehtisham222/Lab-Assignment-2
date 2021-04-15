@@ -13,7 +13,8 @@
     android:id="@+id/tvemail"
     android:textColor="@color/black"
     android:layout_marginTop="200dp"
-    android:layout_marginLeft="90dp">
+    android:layout_marginLeft="90dp"
+    android:textSize="18dp">
 
 </TextView>
     <TextView
@@ -22,7 +23,8 @@
         android:id="@+id/tvpass"
         android:textColor="@color/black"
         android:layout_marginTop="100dp"
-        android:layout_marginLeft="90dp">
+        android:layout_marginLeft="90dp"
+        android:textSize="18dp">
 
     </TextView>
 </LinearLayout>

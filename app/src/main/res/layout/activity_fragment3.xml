@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="100dp"
         android:layout_marginTop="60dp"
+        android:textSize="18dp"
         android:textColor="@color/black"
         android:id="@+id/tvemailF">
     </TextView>
@@ -20,6 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="100dp"
         android:layout_marginTop="100dp"
+        android:textSize="18dp"
         android:textColor="@color/black"
         android:id="@+id/tvnameF">
     </TextView>

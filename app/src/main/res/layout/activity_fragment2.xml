@@ -14,7 +14,8 @@
         android:hint="Enter Email Here"
         android:id="@+id/etEmailF"
         android:padding="10dp"
-        android:background="@drawable/tv_border">
+        android:background="@drawable/tv_border"
+        android:textSize="18dp">
     </EditText>
     <EditText
         android:layout_width="250dp"
@@ -24,7 +25,8 @@
         android:hint="Enter Name Here"
         android:id="@+id/etNameF"
         android:padding="10dp"
-        android:background="@drawable/tv_border">
+        android:background="@drawable/tv_border"
+        android:textSize="18dp">
     </EditText>
     <Button
         android:layout_width="wrap_content"
@@ -34,7 +36,8 @@
         android:layout_marginTop="50dp"
         android:id="@+id/btnSendFragment"
         android:padding="10dp"
-        android:background="@drawable/tv_border"></Button>
+        android:background="@drawable/tv_border"
+        android:textSize="14dp"></Button>
 
 
 </LinearLayout>
